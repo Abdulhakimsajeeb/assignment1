@@ -1,3 +1,35 @@
 body{
     font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 200%;
+
+}
+.mamama{
+    border-left: 4px rgb(17, 207, 207) solid;
+
+}
+.span{
+   color: rgb(250, 144, 6);
+}
+
+section{
+    display: flex;
+    margin-left: 10%;
+
+}
+.half-width{
+    width: 30%;
+    margin-top: 3%;
+
+}
+.half-width img{
+    width: 75%;
+    margin-left: 70%;
+}
+.gavi{
+     background-image: linear-gradient(orange,rgb(155, 212, 21));
+     padding: 9px 12px;
+     border-radius: 8%;
 }

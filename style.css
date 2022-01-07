@@ -17,7 +17,7 @@ h1{
    color: rgb(250, 144, 6);
 }
 
-section{
+.flexible-container{
     display: flex;
    margin: 0%;
 
@@ -63,4 +63,29 @@ section{
     background-image: url(imges/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right ;
+}
+.flexible-container{
+    display: flex;
+ 
+ 
+}
+.half-width-cfc{
+    width: 60%;
+    margin-left: 7%;
+    margin-right: 7%;
+    box-shadow: 0px 4px 4px 7px gray;
+    padding-left: 3%;
+    border-radius: 6%;
+  
+   
+}
+#hamid{
+     border-left: 5px  solid rgb(250, 144, 6);
+}
+#mannan{
+     border-left: 5px  solid rgb(189, 58, 149); 
+}
+#hmg{
+     background-repeat: no-repeat;
+     background-image: url(imges/exp-bg.png);
 }

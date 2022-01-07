@@ -28,8 +28,25 @@ section{
     width: 75%;
     margin-left: 70%;
 }
+.half-width{
+       width: 30%;
+    margin-right: 3%;
+}
+  
 .gavi{
      background-image: linear-gradient(orange,rgb(155, 212, 21));
      padding: 9px 12px;
      border-radius: 8%;
+}
+
+
+.half-width-on{
+     width: 60%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.half-width-on img{
+     width: 60%;
+       margin-right: 70%;
 }

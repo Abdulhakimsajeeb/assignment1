@@ -66,6 +66,7 @@ h1{
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 8%;
  
  
 }
@@ -88,4 +89,62 @@ h1{
 #hmg{
      background-repeat: no-repeat;
      background-image: url(imges/exp-bg.png);
+}
+.school{
+    color: rgb(136, 71, 71);
+
+}
+.collage{
+    color: rgb(212, 17, 170);
+}
+#h12{
+    text-align: center;
+}
+.two-images-a{
+     box-shadow: 0px 4px 4px 7px rgb(143, 45, 45);
+    padding-left: 3%;
+    border-radius: 4%;
+    margin-right: 6%;
+    background-color: rgb(95, 105, 59);
+}
+.images-a{
+    width: 90%;
+    margin-top: 2%;
+}
+.images-a img{
+    width: 50%;
+
+}
+.two-images-b{
+     box-shadow: 0px 4px 4px 7px rgb(143, 45, 45);
+    padding-left: 2%;
+    border-radius: 4%;
+    margin-right: 6%;
+    background-color: tan;
+}
+.images-b{
+     width: 80%;
+}
+.images-b img{
+width: 50%;
+
+}
+.two-images-c{
+    box-shadow: 0px 4px 4px 7px rgb(143, 45, 45);
+    padding-left: 1%;
+    border-radius: 4%;
+    margin-right: 4%;
+    background-color: skyblue;
+}
+.images-c{
+     width: 80%;
+}
+.images-c img{
+width: 50%;
+}
+#all-images{
+    margin-left: 5%;
+    margin-right: 8%;
+
+    
 }
